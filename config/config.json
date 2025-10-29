@@ -1,0 +1,18 @@
+{
+    "debug":true,
+    "env":"dev",
+    "configVersion":"0.1.1",
+    "dbUtilUrl":"",
+    "producerUrl":"rebels",
+    "bucketInfo":[
+        {
+            "identifier":"IN",
+            "region":"us-east-1",
+            "bucketName":"",
+            "directory":"",
+            "accessKey":"",
+            "secretKey":"",
+            "sessionToken":""
+        }
+    ]
+}
